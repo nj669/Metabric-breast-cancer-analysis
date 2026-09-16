@@ -1,0 +1,12 @@
+# R session/environment files
+.RData
+.RDataTmp
+.Rhistory
+.Rproj.user/
+
+# Raw data — large; download from the Kaggle link in README.md instead
+METABRIC_RNA_Mutation.csv
+archive.zip
+
+# Leftover files from an earlier exercise
+R studio practice/
